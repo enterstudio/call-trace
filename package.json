@@ -19,7 +19,7 @@
   "homepage": "https://github.com/brendankenny/call-trace#readme",
   "dependencies": {
     "acorn": "^3.0.2",
-    "yargs": "^3.32.0"
+    "yargs": "^16.0.0"
   },
   "devDependencies": {
     "google-closure-compiler": "^20160208.1.0"
